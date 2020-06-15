@@ -42,4 +42,4 @@ process.env.SEED = process.env.SEED || 'este-es-el-seed-desarrollo';
 // Google client id
 //==============
 
-process.env.CLIENT_ID = process.env.CLIENT_ID || '72919168886-k3lqcporcsn3lks0emlj5lfjg19p2dtt.apps.googleusercontent.com';
+process.env.CLIENT_ID = process.env.CLIENT_ID || '72919168886-7qj95jli4qcfaarv948oi4u26jooml47.apps.googleusercontent.com';
